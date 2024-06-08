@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Images/BotonA.png</file>
+        <file>Images/BotonD.png</file>
+        <file>Images/exitBoton.png</file>
+        <file>Images/Icono Pasaporte.png</file>
+        <file>Images/startBoton.png</file>
+        <file>Images/playBoton.png</file>
+        <file>Images/cronometro.png</file>
+        <file>Images/_7ee18ae9-e235-413a-a720-fa59a96e065b.jpg</file>
+        <file>Images/_5b72ca0c-658f-41e0-a57d-c9a03e7dc7d3.jpg</file>
+        <file>Images/acceptBoton.png</file>
+        <file>Images/LibroAcuerdos.png</file>
+        <file>Images/settingsBoton.png</file>
+        <file>Images/icono.jpeg</file>
+        <file>Images/Flecha.png</file>
+        <file>Images/backBoton.png</file>
+        <file>Images/pauseBoton.png</file>
+        <file>Images/stopBoton.png</file>
+        <file>Images/botonOFF.png</file>
+        <file>Images/botonON.png</file>
+        <file>Images/musica.png</file>
+        <file>Images/sonido.png</file>
+        <file>Images/PAUSAMENU.png</file>
+        <file>Images/Nivel1.png</file>
+        <file>Images/Nivel2.png</file>
+        <file>Images/Nivel3.png</file>
+        <file>Images/Nivel4.png</file>
+        <file>Images/Nivel5.png</file>
+        <file>Images/bienHecho.png</file>
+        <file>Images/fallaste.png</file>
+        <file>Images/musicaoff.png</file>
+        <file>Images/sonidooff.png</file>
+        <file>Images/Posible fondo 2.png</file>
+        <file>Images/fondoSinSentor.png</file>
+        <file>Images/rules.png</file>
+    </qresource>
+</RCC>

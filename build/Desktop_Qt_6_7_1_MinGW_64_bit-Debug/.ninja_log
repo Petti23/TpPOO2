@@ -1,0 +1,72 @@
+# ninja log v5
+10	156	7394202938007632	untitled_autogen/timestamp	aecee7fc6331f2ac
+169	547	7394202941855741	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/EWIEGA46WW/qrc_FondoInicio.cpp	57be4b2cff97f59b
+841	3088	7393958720718967	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	e2978c6282618c85
+10	156	7394202938007632	untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+10	156	7394202938007632	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	aecee7fc6331f2ac
+10	156	7394202938007632	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+836	3089	7393958720718967	CMakeFiles/untitled.dir/main.cpp.obj	422608979614dc9a
+553	2623	7394202962668609	CMakeFiles/untitled.dir/mainwindow.cpp.obj	3b5278c4f3e56cf
+11035	11337	7394203049769651	untitled.exe	aa4914f0216f1c34
+169	547	7394202941855741	untitled_autogen/EWIEGA46WW/qrc_FondoInicio.cpp	57be4b2cff97f59b
+556	11034	7394203046711050	CMakeFiles/untitled.dir/untitled_autogen/EWIEGA46WW/qrc_FondoInicio.cpp.obj	3f6bfc76a84058ad
+547	2502	7394202961455141	CMakeFiles/untitled.dir/pantallainfo.cpp.obj	19a9cffcc55281ac
+551	2664	7394202963063267	CMakeFiles/untitled.dir/juego.cpp.obj	32495a7e75d8a455
+204	288	7381339613866599	untitled_autogen/EWIEGA46WW/qrc_FondoInfo.cpp	d3523228ef42b9f3
+204	288	7381339613866599	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/EWIEGA46WW/qrc_FondoInfo.cpp	d3523228ef42b9f3
+305	1246	7381339623484655	CMakeFiles/untitled.dir/untitled_autogen/EWIEGA46WW/qrc_FondoInfo.cpp.obj	85f117b1e9d3d51
+387	3423	7383734399578964	CMakeFiles/untitled.dir/siguientenivel.cpp.obj	221c06903b4d2406
+9	1041	7394204422133402	build.ninja	d26ddf8136207ee1
+11	156	7394205129268402	untitled_autogen/timestamp	aecee7fc6331f2ac
+11	156	7394205129268402	untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+11	156	7394205129268402	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	aecee7fc6331f2ac
+11	156	7394205129268402	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+168	562	7394205133277288	untitled_autogen/EWIEGA46WW/qrc_FondoInicio.cpp	57be4b2cff97f59b
+168	562	7394205133277288	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/EWIEGA46WW/qrc_FondoInicio.cpp	57be4b2cff97f59b
+569	2400	7394205151701716	CMakeFiles/untitled.dir/pantallainfo.cpp.obj	19a9cffcc55281ac
+562	2543	7394205153125444	CMakeFiles/untitled.dir/mainwindow.cpp.obj	3b5278c4f3e56cf
+566	2598	7394205153673455	CMakeFiles/untitled.dir/juego.cpp.obj	32495a7e75d8a455
+571	11715	7394205244841004	CMakeFiles/untitled.dir/untitled_autogen/EWIEGA46WW/qrc_FondoInicio.cpp.obj	3f6bfc76a84058ad
+11715	12031	7394205247978568	untitled.exe	aa4914f0216f1c34
+13	796	7394215269559289	untitled_autogen/timestamp	aecee7fc6331f2ac
+13	796	7394215269559289	untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+13	796	7394215269559289	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	aecee7fc6331f2ac
+13	796	7394215269559289	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+797	3071	7394215292895833	CMakeFiles/untitled.dir/main.cpp.obj	422608979614dc9a
+801	3183	7394215294026173	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	e2978c6282618c85
+816	3209	7394215294281327	CMakeFiles/untitled.dir/pantallainfo.cpp.obj	19a9cffcc55281ac
+806	3213	7394215294321510	CMakeFiles/untitled.dir/mainwindow.cpp.obj	3b5278c4f3e56cf
+811	3297	7394215295171706	CMakeFiles/untitled.dir/juego.cpp.obj	32495a7e75d8a455
+3297	3626	7394215298427424	untitled.exe	aa4914f0216f1c34
+12	153	7394215529409493	untitled_autogen/timestamp	aecee7fc6331f2ac
+12	153	7394215529409493	untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+12	153	7394215529409493	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	aecee7fc6331f2ac
+12	153	7394215529409493	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+172	1979	7394215547680634	CMakeFiles/untitled.dir/pantallainfo.cpp.obj	19a9cffcc55281ac
+168	2009	7394215547969408	CMakeFiles/untitled.dir/mainwindow.cpp.obj	3b5278c4f3e56cf
+175	2115	7394215549025359	CMakeFiles/untitled.dir/juego.cpp.obj	32495a7e75d8a455
+2115	2437	7394215552216530	untitled.exe	aa4914f0216f1c34
+11	151	7394216323327490	untitled_autogen/timestamp	aecee7fc6331f2ac
+11	151	7394216323327490	untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+11	151	7394216323327490	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	aecee7fc6331f2ac
+11	151	7394216323327490	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+168	2089	7394216342720537	CMakeFiles/untitled.dir/pantallainfo.cpp.obj	19a9cffcc55281ac
+171	2320	7394216345026586	CMakeFiles/untitled.dir/mainwindow.cpp.obj	3b5278c4f3e56cf
+164	2336	7394216345183125	CMakeFiles/untitled.dir/juego.cpp.obj	32495a7e75d8a455
+2336	2669	7394216348482633	untitled.exe	aa4914f0216f1c34
+6	164	7394216701652847	untitled_autogen/timestamp	aecee7fc6331f2ac
+6	164	7394216701652847	untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+6	164	7394216701652847	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	aecee7fc6331f2ac
+6	164	7394216701652847	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+182	2254	7394216722542073	CMakeFiles/untitled.dir/pantallainfo.cpp.obj	19a9cffcc55281ac
+185	2334	7394216723356044	CMakeFiles/untitled.dir/mainwindow.cpp.obj	3b5278c4f3e56cf
+178	2445	7394216724452131	CMakeFiles/untitled.dir/juego.cpp.obj	32495a7e75d8a455
+2445	2785	7394216727812207	untitled.exe	aa4914f0216f1c34
+14	171	7394217521307932	untitled_autogen/timestamp	aecee7fc6331f2ac
+14	171	7394217521307932	untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+14	171	7394217521307932	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	aecee7fc6331f2ac
+14	171	7394217521307932	C:/Users/valen/Desktop/Cosas/Facu/Programacion/Tp Poo2/untitled/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	aecee7fc6331f2ac
+194	2212	7394217541726253	CMakeFiles/untitled.dir/pantallainfo.cpp.obj	19a9cffcc55281ac
+185	2276	7394217542367531	CMakeFiles/untitled.dir/mainwindow.cpp.obj	3b5278c4f3e56cf
+189	2349	7394217543103030	CMakeFiles/untitled.dir/juego.cpp.obj	32495a7e75d8a455
+2349	2688	7394217546451815	untitled.exe	aa4914f0216f1c34
